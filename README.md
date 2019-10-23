@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>html  css  cv</title>
+    <title>SD Creation</title>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
     
@@ -118,7 +118,7 @@
         <hr>
         <div id="contact">
 
-          <span class="num"> 077-3112006</span>
+          <span class="num"> 071-4150016</span>
 
           <div class="email">
             <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
